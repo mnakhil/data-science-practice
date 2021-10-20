@@ -1,0 +1,6 @@
+#print("What is your name?", end='')
+name=input("What is your name buddy?")
+print(f"Your name is {name}")
+num1 = int(input("Enter the first number:"))
+num2 = int(input("Enter the Second number:"))
+print("sum = ",num1+num2)
