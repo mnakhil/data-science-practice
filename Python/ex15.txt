@@ -1,4 +1,0 @@
-this is the text file
-It is being read through python
-Reading a file program
-end.
